@@ -1,5 +1,5 @@
 // CONFIG (GASのURL)
-const GAS_API_URL = "https://script.google.com/macros/s/AKfycbz1Qa9NVWFWUGq5bOyqWl7QkvZExp8tpGjcyGbOj0s7yhQzpQlewy7-4tng3N404SUu_A/exec";
+const GAS_API_URL = "https://script.google.com/macros/s/AKfycbzAL92S9ZO9TD7xVMxfEDQCLHq8guonidNKmX79JYXCvK_T5Tycr5r4eUerAq1utWviBw/exec";
 
 
 // API Client (強化版)
@@ -1469,4 +1469,5 @@ function fillFromNDL(idx) {
 
 // グローバルに公開
 window.openDetail = openDetail;
+
 

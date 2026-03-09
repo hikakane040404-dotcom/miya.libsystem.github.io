@@ -1,7 +1,7 @@
 // ========================================
 // 🚨 CONFIG (GASのURL)
 // ========================================
-const GAS_API_URL = "https://script.google.com/macros/s/AKfycbygtZeEhxytScN3-FOX8Oevh7KzlYVCTc_fIGbzhUUsduBSOdB-AbhbLfgtOXxOBDU5_Q/exec";
+const GAS_API_URL = "https://script.google.com/macros/s/AKfycbxxu6f7auXwoqmzvSv8KlbM6I-vL-ijoXxOhKQNq6YT1FwN3cPfQDvfcDgCerWGZP0Inw/exec";
 
 // ========================================
 // 🛠️ API Client (強化版)
@@ -567,3 +567,4 @@ async function saveBulk() {
         await fetchData(true);
     }
 }
+

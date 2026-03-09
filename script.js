@@ -1,7 +1,7 @@
 // ========================================
 // 🚨 CONFIG (GASのURL)
 // ========================================
-const GAS_API_URL = "https://script.google.com/macros/s/AKfycbwrE5xmhv8H5vqMuqUFiml-Sg7g3hDp2YVW8voFMxD7-H05FmgEasDUex1mA6Mqmvkw4Q/exec";
+const GAS_API_URL = "https://script.google.com/macros/s/AKfycbxQpdsBjW-LacmwpfbgvgPKti7xKaJmeLKycIlhsRcaCI6NB25-3vuBne4DtUDSgoPmYw/exec";
 
 
 // ========================================
@@ -1282,3 +1282,4 @@ function fillFromNDL(idx) {
         if (fIsbn) { fIsbn.value = r.isbn; lookupISBN(); }
     }
 }
+
